@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-arrays-strings/ch01-arrays-strings.iml" filepath="$PROJECT_DIR$/ch01-arrays-strings/ch01-arrays-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-linkedlists/ch02-linkedlists.iml" filepath="$PROJECT_DIR$/ch02-linkedlists/ch02-linkedlists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-stacks-queues/ch03-stacks-queues.iml" filepath="$PROJECT_DIR$/ch03-stacks-queues/ch03-stacks-queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-tree-graphs/ch04-tree-graphs.iml" filepath="$PROJECT_DIR$/ch04-tree-graphs/ch04-tree-graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-bit-manipulation/ch05-bit-manipulation.iml" filepath="$PROJECT_DIR$/ch05-bit-manipulation/ch05-bit-manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-math-logic-puzzles/ch06-math-logic-puzzles.iml" filepath="$PROJECT_DIR$/ch06-math-logic-puzzles/ch06-math-logic-puzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-object-design/ch07-object-design.iml" filepath="$PROJECT_DIR$/ch07-object-design/ch07-object-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-recursion-dp/ch08-recursion-dp.iml" filepath="$PROJECT_DIR$/ch08-recursion-dp/ch08-recursion-dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-scalability/ch09-scalability.iml" filepath="$PROJECT_DIR$/ch09-scalability/ch09-scalability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-sorting-searching/ch10-sorting-searching.iml" filepath="$PROJECT_DIR$/ch10-sorting-searching/ch10-sorting-searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13-java/ch13-java.iml" filepath="$PROJECT_DIR$/ch13-java/ch13-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15-threads-locks/ch15-threads-locks.iml" filepath="$PROJECT_DIR$/ch15-threads-locks/ch15-threads-locks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-moderate/ch16-moderate.iml" filepath="$PROJECT_DIR$/ch16-moderate/ch16-moderate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17-hard/ch17-hard.iml" filepath="$PROJECT_DIR$/ch17-hard/ch17-hard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cracking-code-questions.iml" filepath="$PROJECT_DIR$/.idea/cracking-code-questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructures/datastructures.iml" filepath="$PROJECT_DIR$/datastructures/datastructures.iml" />
+    </modules>
+  </component>
+</project>

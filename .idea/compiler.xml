@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for Cracking the coding interview" enabled="true">
+        <sourceOutputDir name="out/generated-sources/annotations" />
+        <sourceTestOutputDir name="out/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch08-recursion-dp" />
+        <module name="datastructures" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="ch08-recursion-dp" target="11" />
+      <module name="cracking-code-questions" target="11" />
+      <module name="datastructures" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
