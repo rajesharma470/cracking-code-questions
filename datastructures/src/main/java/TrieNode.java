@@ -1,5 +1,3 @@
-package CtCILibrary;
-
 import java.util.HashMap;
 
 /* One node in the trie. Most of the logic of the trie is implemented

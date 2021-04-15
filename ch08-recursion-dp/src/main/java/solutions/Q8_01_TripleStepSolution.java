@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.Arrays;
 
 public class Q8_01_TripleStepSolution {

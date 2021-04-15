@@ -1,5 +1,3 @@
-package CtCILibrary;
-
 public class LinkedListNode {
 	public LinkedListNode next;
 	public LinkedListNode prev;
